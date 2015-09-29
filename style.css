@@ -1,0 +1,19 @@
+.button {
+            background: #B2C2B2; /* this is a light blue */
+}
+
+body {
+    background-color: #193A19;
+    font-family: 'Lato';
+    color: #9BB482;
+    font-weight: 300;
+}
+
+.navigation .selected {
+    background-color: #EBF5EB;
+}
+
+.title a {
+    text-decoration: none;
+    color: #fff;
+}
